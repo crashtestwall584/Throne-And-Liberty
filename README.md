@@ -226,4 +226,4 @@ Throne and Liberty is available as a full free version with all features and upd
 Dive into the world of Throne and Liberty today and embark on your adventure!
 
 ---
-**Last updated:** 2026-09-17 11:20:40 UTC
+**Last updated:** 2026-09-17 16:37:35 UTC
